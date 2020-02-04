@@ -8,5 +8,5 @@
 
 ## Android
 
-* [逝去的第三方ROM](Android/ROM/README.md) 2014~2016，感谢陪我渡过这段时光的第三方 ROM
-
+* [Say goodbye to third part rom](Android/ROM/README.md) 2014~2016，感谢陪我渡过这段时光的第三方 ROM
+* [Say goodbye to supersu](Android/SuperSU/README.md) 感谢安卓 8.0 之前 Root 的陪伴
