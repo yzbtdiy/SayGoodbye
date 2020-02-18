@@ -1,3 +1,5 @@
+# Say Goodbye To Android Third Part Rom
+
 > 本文转自 IT 之家：[刷机时代的情怀：盘点那些逝去的安卓手机ROM](https://www.ithome.com/html/android/307392.htm) 
 > 作者：打不死的喂小强，发表于：2017/05/04
 

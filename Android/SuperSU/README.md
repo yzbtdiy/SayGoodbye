@@ -1,4 +1,4 @@
-# SuperSU
+# Say Goodbye To SuperSU
 
 &emsp;&emsp;安卓 8.0 之前，没有比 SuperSU 声誉更好、认可度最高的软件，只要是基于 Android 的设备，大家都会想到使用 Chainfire 的 SuperSU 来接管 Android 系统的 Root 权限。
 
@@ -21,6 +21,9 @@
 &emsp;&emsp;对我来说 SuperSU 曾经是必需品，但随着安卓系统的迭代，它已不再出现在我的手机里，感谢过去那些年搞机时的陪伴。
 
 * [XDA SuperSU](https://forum.xda-developers.com/apps/supersu/)
+
 * [chainfire Blog](https://chainfire.eu/)
+
 * [XDA Magisk](https://forum.xda-developers.com/apps/magisk/)
+
 * [Github Magisk](https://github.com/topjohnwu/Magisk)
