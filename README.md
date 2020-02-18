@@ -8,6 +8,7 @@
 
 ## Android
 
-* [Say goodbye to Android Third Part Rom](Android/ROM/README.md)    再见了安卓第三方 ROM
-* [Say goodbye to SuperSU](Android/SuperSU/README.md)    再见了 SuperSU 
+* [Say Goodbye To Android Third Part Rom](Android/ROM/README.md)    再见了安卓第三方 ROM
+* [Say Goodbye To SuperSU](Android/SuperSU/README.md)    再见了 SuperSU 
 
+* [Say Goodbye TO MagiskAlpha2](Android/MagiskAlpha2/README.md) 再见了 MagiskAlpha2
