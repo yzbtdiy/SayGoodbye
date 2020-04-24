@@ -13,4 +13,4 @@
 
 * [Say Goodbye To MagiskAlpha2](Android/MagiskAlpha2/README.md) 再见了 MagiskAlpha2
 
-* [Say Goodbye To PanDownload](Network/PanDownload/README.md) 再见了 PanDownload
+* [Say Goodbye To PanDownload](Network/PanDowload/README.md) 再见了 PanDownload
