@@ -11,4 +11,6 @@
 * [Say Goodbye To Android Third Part Rom](Android/ROM/README.md)    再见了安卓第三方 ROM
 * [Say Goodbye To SuperSU](Android/SuperSU/README.md)    再见了 SuperSU 
 
-* [Say Goodbye TO MagiskAlpha2](Android/MagiskAlpha2/README.md) 再见了 MagiskAlpha2
+* [Say Goodbye To MagiskAlpha2](Android/MagiskAlpha2/README.md) 再见了 MagiskAlpha2
+
+* [Say Goodbye To PanDownload](Network/PanDownload/README.md) 再见了 PanDownload
